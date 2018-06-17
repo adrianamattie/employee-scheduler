@@ -1,0 +1,19 @@
+
+[{
+    "name":"minimum",
+    "rate":"14.00"
+},
+{
+    "name":"junior",
+    "rate":"20.00"
+},
+{
+    "name":"intermidiate",
+    "rate":"25.00"
+},
+{
+    "name":"senior",
+    "rate":"40.00"
+}
+]
+
